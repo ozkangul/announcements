@@ -9,7 +9,7 @@ You can find latest course annoucments etc. some text will be added
 
 
 ## Become a Top Learner
-[![](https://globalaihub.com/top-learner)](assets/top-learner.png)
+[![](assets/top-learner.png)](https://globalaihub.com/top-learner)
 
 ## Previous Webinars
 some youtube videos
