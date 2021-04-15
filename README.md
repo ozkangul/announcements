@@ -14,10 +14,10 @@ You can find latest course annoucements etc. some text will be added
 
 ## Update
 #### 15.04.2021
-- Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! 
+- ⏰ Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! 
 
 #### 12.04.2021
-- New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
+- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
 
 ## Hatirlaticilar
 ### Katilim Formu
@@ -36,7 +36,7 @@ Global AI Hub, Yapay Zeka takimi egitmenleri her zaman kaliteli egitimleri sunma
 ### Yardim
 Sorularınız ve ders notları için lütfen bu linke tıklayınız.
 
-> Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Elimizden geldiğince RT ve Repost yapacağız.
+> Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hic ummadiginiz anlarda repost yapabiliriz 😄
 
 ## Previous Webinars
 |Refik Anadol ile "Makine Hatıraları: Uzay" Perde Arkası Webinarı|İngiltere'de Bir Türk: Yapay Zekâ ve Veri Bilim Üzerine | Global AI Hub Top Learner'larıyla Buluştuk!|
@@ -44,7 +44,7 @@ Sorularınız ve ders notları için lütfen bu linke tıklayınız.
 |[![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc)|[![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q)|[![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U)|
 
 
-## Become a Top Learner
+## 🥇 Become a Top Learner 
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
 
 
