@@ -1,5 +1,5 @@
 # announcements
-You can find latest course annoucments etc. some text will be added
+You can find latest course annoucements etc. some text will be added
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/globalaihub)
@@ -22,8 +22,6 @@ some youtube videos
 
 ## Become a Top Learner
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
-
-## Social Media
 
 
 ## Missing Certificate?
