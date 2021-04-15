@@ -14,7 +14,7 @@ You can find latest course annoucements etc. some text will be added
 
 ## Update
 - > Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! - 15.04.2021
-- > New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education)
+- > New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 12.04.2021
 
 ## Previous Webinars
 some youtube videos
