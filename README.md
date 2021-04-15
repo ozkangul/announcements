@@ -7,19 +7,19 @@ You can find latest course annoucements etc. some text will be added
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/globalaihub)
 [![Mail Badge](https://img.shields.io/badge/hello@globalaihub.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@globalaihub.com)](mailto:hello@globalaihub.com)
 
-## Courses
+## 📚 Courses
 |Python|Artificial Intelligence|Machine Learning|
 |-|-|-|
 |![](assets/intropython.png)|![](assets/introai.png)|![](assets/introml.png)|
 
-## Update
+## 🎉 Update
 #### 15.04.2021
 - ⏰ Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! 
 
 #### 12.04.2021
 - 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
 
-## Hatirlaticilar
+## 🔰 Hatirlaticilar
 ### Katilim Formu
 Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Katılım formu sadece kursun **canlı olarak yapıldığı süre boyunca aktif olacaktır!**
 
@@ -38,15 +38,15 @@ Sorularınız ve ders notları için lütfen bu linke tıklayınız.
 
 > Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hic ummadiginiz anlarda repost yapabiliriz 😄
 
-## Previous Webinars
+## 📺 Previous Webinars
 |Refik Anadol ile "Makine Hatıraları: Uzay" Perde Arkası Webinarı|İngiltere'de Bir Türk: Yapay Zekâ ve Veri Bilim Üzerine | Global AI Hub Top Learner'larıyla Buluştuk!|
 |-|-|-|
 |[![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc)|[![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q)|[![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U)|
 
 
-## 🥇 Become a Top Learner 
+## 🥇 Become a Top Learner  
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
 
 
-## Missing Certificate?
+## ✉️ Missing Certificate?
 Contact us with the [missing certificate](google.com) form
