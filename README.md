@@ -1,9 +1,18 @@
 # announcements
-
+You can find latest course annoucments etc. some text will be added
 
 |Python|Artificial Intelligence|Machine Learning|
 |-|-|-|
 |![](assets/intropython.png)|![](assets/introai.png)|![](assets/introml.png)|
+
+
+
+
+## Become a Top Learner
+[![](https://globalaihub.com/top-learner)](assets/top-learner.png)
+
+## Previous Webinars
+some youtube videos
 
 ## Social Media
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
