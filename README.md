@@ -10,7 +10,7 @@ You can find latest course annoucements etc. some text will be added
 ## Courses
 |Python|Artificial Intelligence|Machine Learning|
 |-|-|-|
-|![](assets/intropython.png)|![](assets/introai.png)|![](assets/introml.png)|
+|![asd](assets/intropython.png)|![asd](assets/introai.png)|![asd](assets/introml.png)|
 
 ## Update
 #### 15.04.2021
