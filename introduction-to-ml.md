@@ -11,7 +11,7 @@ Ders sonunda [Memnuniyet Anketimizi](https://forms.gle/2KKaC2qTVpkSBmma9) doldur
 
 ### Sertifika
 - Sertifika alabilmek için Global AI Hub topluluğuna [bu linkten](https://globalaihub.com/community/) üye olmalısınız.
-- Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Yoklama formuna bu [linkten](https://forms.gle/H4dGRyDC2BH3pjwf9) ulaşabilirsiniz.   
+- Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olunuz.   
 
 Katılım formu sadece kursun canlı olarak yapıldığı süre boyunca aktif olacaktır!  
 Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz adınızı ve soyadınızı yazınız.  
