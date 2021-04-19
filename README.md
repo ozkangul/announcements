@@ -8,7 +8,7 @@ You can find latest course annoucements etc. some text will be added
 [![Mail Badge](https://img.shields.io/badge/hello@globalaihub.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@globalaihub.com)](mailto:hello@globalaihub.com)
 
 ## Courses
-
+Kurs gorsellerine tiklayarak, ilgili kurslarin bilgilerine ulasabilirsiniz!
 | Python | Artificial Intelligence | Machine Learning |
 | :---:         |     :---:      |          :---: |
 | [![asd](assets/intropython.png)](https://gaih.github.io/announcements/introduction-to-python)  | [![asd](assets/introai.png)](https://gaih.github.io/announcements/introduction-to-ai)  | [![asd](assets/introml.png)](https://gaih.github.io/announcements/introduction-to-ml) |
