@@ -57,4 +57,4 @@ Sorularınız ve ders notları için lütfen [bu linke]() tıklayınız.
 
 
 ## ✉️ Sertifikanız kayıp mı?
-[Buraya tıklayarak]() bizlerle kayıp sertifakalarınız ile ilgili iletişime geçebilirsiniz.
+[Buraya tıklayarak](https://forms.gle/bSAqUhZF2d4QopJj8) bizlerle kayıp sertifakalarınız ile ilgili iletişime geçebilirsiniz.
