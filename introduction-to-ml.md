@@ -4,6 +4,8 @@
 
 Canlı ders bittikten sonra dersin bağlantısını kullanarak oturumları yeniden izleyebilirsiniz.  
 
+Bu derste eğitmenimiz [Kutay Akalın](https://github.com/KutayAkalin) olacaktır. 
+
 Ders sonunda [Memnuniyet Anketimizi](https://forms.gle/2KKaC2qTVpkSBmma9) doldurmayı unutmayınız!
 
 ### Eğitim Materyalleri
@@ -44,7 +46,7 @@ Quizler eğitim sonunda 15 dakika aktif olacaktır.
 [https://github.com/globalaihub/gaih-students-repo-example](https://github.com/globalaihub/gaih-students-repo-example)
 
 
-Sorularınız için [Turkish AI Hub'ı](https://globalaihub.com/community-hubs/turkish-ai-hub/) ziyaret etmeyi unutmmayınız.    
+Sorularınız için [Turkish AI Hub'ı](https://globalaihub.com/community-hubs/turkish-ai-hub/) ziyaret etmeyi unutmayınız.    
 
 ## Top Learner Ol 
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
