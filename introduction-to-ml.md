@@ -21,8 +21,13 @@ Katılım formu doldururken farklı e-posta adresi kullanmamaya dikkat ediniz.
 
 Quizler eğitim sonunda 15 dakika aktif olacaktır.
 
-- 1.Güne ait Quize ulaşmak için [linke](https://forms.gle/dtyB8hsaXWwyLnAy5) tıklayınız.      
-- Sorularınız ve ders notları için lütfen [bu linke](https://globalaihub.com/community-hubs/turkish-ai-hub/) tıklayınız.    
+- 1.Güne ait Quize ulaşmak için [linke](https://forms.gle/dtyB8hsaXWwyLnAy5) tıklayınız.
+- 2.Güne ait Quize ulaşmak için [linke](https://forms.gle/KX5MZJM1phxRorCx9) tıklayınız.
+- 3.Güne ait Quize ulaşmak için [linke](https://forms.gle/pifmP2cXABoQTnr57) tıklayınız.
+- 4.Güne ait Quize ulaşmak için [linke](https://forms.gle/1ZKpu2Qr7xAXdjXC8) tıklayınız.      
+- 5.Güne ait Quize ulaşmak için [linke](https://forms.gle/YeV6AME8nXcbsryg6) tıklayınız.
+
+Sorularınız için [Turkish AI Hub'ı](https://globalaihub.com/community-hubs/turkish-ai-hub/) ziyaret etmeyi unutmmayınız.    
 
 
 Katıldığınız için teşekkür ederiz!  
