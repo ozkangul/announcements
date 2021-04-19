@@ -33,7 +33,7 @@ Sertifika alabilmek için [Global AI Hub topluluğuna](https://globalaihub.com/c
 ### Egitmenler
 Global AI Hub, Yapay Zeka takimi egitmenleri her zaman kaliteli egitimleri sunmak icin en iyi kaynaklari size getirir! Asagidaki linklerden kisisel GitHub adreslerine ulasabilirsiniz.
 
-[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/cobanov), [Vusal Ismayilov](https://github.com/cobanov), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
+[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/cobanov), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
 
 ### Yardim
 Sorularınız ve ders notları için lütfen bu linke tıklayınız.
