@@ -47,7 +47,7 @@ For questions and lecture notes please click the relevant course above.
 
 ## Previous Webinars
 
-| "Machine Memoirs: Space" Behind the Scenes Webinar with Refik Anadol | A TUrkish Person in England: Towards Artificial Intelligence and Data Science | We Met with Global AI Hub Top Learners! |
+| "Machine Memoirs: Space" Behind the Scenes Webinar with Refik Anadol | Towards Artificial Intelligence and Data Science with Tuana Celik | We Met with Global AI Hub Top Learners! |
 | --- | --- | --- |
 | [![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc) | [![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q) | [![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U) |
 
