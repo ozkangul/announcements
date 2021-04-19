@@ -29,7 +29,7 @@ By clicking on the respective image of the course, you can go the relevant page!
 
 ## Reminders
 ### Attendance Form
-To get your certificate without any trouble, make sure that you’ve filled the attendance form for the duration of the course, it will only be open **during the course**: 
+To get your certificate without any trouble, make sure that you’ve filled the attendance form for the duration of the course, it will only be open **during the course**. 
 
 Please write your **name and surname** as you would like to see on your certificate. Use the **same email** in each attendance form. 
 
