@@ -1,3 +1,9 @@
+<div align="right">
+  
+  <p><a href="https://github.com/woosal1337/announcements/blob/main/READMETR.md">Türkçe</a> | <a href="https://github.com/woosal1337/announcements/blob/main/README.md">English</a></p>
+
+</div>
+
 # Duyurular
 You can find latest course annoucements etc. some text will be added
 
