@@ -4,8 +4,7 @@
 
 </div>
 
-# Announcements
-You can find latest course annoucements etc. some text will be added
+# Announcements 
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/globalaihub)
