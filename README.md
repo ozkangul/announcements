@@ -42,7 +42,7 @@ Sorularınız ve ders notları için lütfen bu linke tıklayınız.
 
 ## Previous Webinars
 |Refik Anadol ile "Makine Hatıraları: Uzay" Perde Arkası Webinarı|İngiltere'de Bir Türk: Yapay Zekâ ve Veri Bilim Üzerine | Global AI Hub Top Learner'larıyla Buluştuk!|
-|-|-|-|
+| :- | :-: | -: |
 |[![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc)|[![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q)|[![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U)|
 
 
