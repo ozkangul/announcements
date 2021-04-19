@@ -1,11 +1,9 @@
 <div align="right">
-  
   <p><a href="https://github.com/woosal1337/announcements/blob/main/READMETR.md">Türkçe</a> | <a href="https://github.com/woosal1337/announcements/blob/main/README.md">English</a></p>
-
 </div>
 
 # Duyurular
-You can find latest course annoucements etc. some text will be added
+En son duyurulardan ve gelişmelerden aşağıdaki sosyal medya hesaplarından bizleri takip ederek güncel kalabilirisiniz.
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/globalaihub)
@@ -13,23 +11,23 @@ You can find latest course annoucements etc. some text will be added
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/globalaihub)
 [![Mail Badge](https://img.shields.io/badge/hello@globalaihub.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@globalaihub.com)](mailto:hello@globalaihub.com)
 
-## Courses
-Kurs gorsellerine tiklayarak, ilgili kurslarin bilgilerine ulasabilirsiniz!
+## Eğitimler
+Kurs görsellerine tıklayarak, ilgili kursların bilgilerine ulaşabilirsiniz!
 
 | Python | Artificial Intelligence | Machine Learning |
 | --- | --- | --- |
 | [![asd](assets/intropython.png)](https://gaih.github.io/announcements/introduction-to-python) | [![asd](assets/introai.png)](https://gaih.github.io/announcements/introduction-to-ai) | [![asd](assets/introml.png)](https://gaih.github.io/announcements/introduction-to-ml) |
 
 
-## Update
+## Güncelleme
 #### 15.04.2021
-- ⏰ Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! 
+- ⏰ Sonraki [Python'a Giriş](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) eğitimi DD:MM:YYYY tarihinde verilecektir, buraya tıklayarak eğitime kayıt olabilirsiniz! 
 
 #### 12.04.2021
-- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
+- 🔥 Yeni eğitim **Introduction to Hyperautomation and RPA** ile beraberiz! Eğitime [buraya](globalaihub.com/education) tıklayarak kayıt olabilirsiniz.
 
-## Hatirlaticilar
-### Katilim Formu
+## Hatırlatıcılar
+### Katılım formu
 Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Katılım formu sadece kursun **canlı olarak yapıldığı süre boyunca aktif olacaktır!**
 
 Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz **adınızı ve soyadınızı** yazınız. Katılım formunu doldururken **aynı e-posta adresini** kullanmaya dikkat ediniz.
