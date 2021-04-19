@@ -11,7 +11,7 @@ You can find latest course annoucements etc. some text will be added
 
 | Python | Artificial Intelligence | Machine Learning |
 | :---:         |     :---:      |          :---: |
-| ![asd](assets/intropython.png)   | ![asd](assets/introai.png)  | ![asd](assets/introml.png)    |
+| ![asd](assets/intropython.png)   | ![asd](assets/introai.png)  | [![asd](assets/introml.png)](https://gaih.github.io/announcements/introduction-to-ml) |
 
 
 ## Update
