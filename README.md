@@ -21,7 +21,7 @@ Kurs görsellerine tıklayarak, ilgili kursların bilgilerine ulaşabilirsiniz!
 
 ## Güncelleme
 #### 15.04.2021
-- ⏰ Sonraki [Makine Öğrenmesine Giriş](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) eğitimi 19:04:2021 tarihinde verilecektir, buraya tıklayarak eğitime kayıt olabilirsiniz! 
+- ⏰ Sonraki [Makine Öğrenmesine Giriş](https://github.com/gaih/announcements/blob/main/introduction-to-ml.md) eğitimi 19/04/2021 tarihinde verilecektir, [buraya](https://globalaihub.com/event/introduction-to-machine-learning-5/) tıklayarak eğitime kayıt olabilirsiniz! 
 
 #### 12.04.2021
 - 🔥 Yeni eğitim **Introduction to Hyperautomation and RPA** ile beraberiz! Eğitime [buraya](globalaihub.com/education) tıklayarak kayıt olabilirsiniz.
