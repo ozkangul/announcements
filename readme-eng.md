@@ -1,3 +1,9 @@
+<div align="right">
+  
+  <p><a href="https://github.com/woosal1337/announcements/blob/main/READMETR.md">Türkçe</a> | <a href="https://github.com/woosal1337/announcements/blob/main/README.md">English</a></p>
+
+</div>
+
 # Announcements
 You can find latest course annoucements etc. some text will be added
 
@@ -8,7 +14,7 @@ You can find latest course annoucements etc. some text will be added
 [![Mail Badge](https://img.shields.io/badge/hello@globalaihub.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@globalaihub.com)](mailto:hello@globalaihub.com)
 
 ## Courses
-Kurs gorsellerine tiklayarak, ilgili kurslarin bilgilerine ulasabilirsiniz!
+By clicking on the respective image of the course, you can go the relevant page!
 
 | Python | Artificial Intelligence | Machine Learning |
 | --- | --- | --- |
@@ -22,35 +28,34 @@ Kurs gorsellerine tiklayarak, ilgili kurslarin bilgilerine ulasabilirsiniz!
 #### 12.04.2021
 - 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
 
-## Hatirlaticilar
-### Katilim Formu
-Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Katılım formu sadece kursun **canlı olarak yapıldığı süre boyunca aktif olacaktır!**
+## Reminders
+### Attendance Form
+To get your certificate without any trouble, make sure that you’ve filled the attendance form for the duration of the course, it will only be open **during the course**: 
 
-Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz **adınızı ve soyadınızı** yazınız. Katılım formunu doldururken **aynı e-posta adresini** kullanmaya dikkat ediniz.
+Please write your **name and surname** as you would like to see on your certificate. Use the **same email** in each attendance form. 
 
-### Sertifika 
-Sertifika alabilmek için [Global AI Hub topluluğuna](https://globalaihub.com/community/) üye olmalısınız.
+### Certificate 
+To get a certificate, you must join the [Global AI Hub Community](https://globalaihub.com/community/). 
 
-### Egitmenler
-Global AI Hub, Yapay Zeka takimi egitmenleri her zaman kaliteli egitimleri sunmak icin en iyi kaynaklari size getirir! Asagidaki linklerden kisisel GitHub adreslerine ulasabilirsiniz.
-
+### Instructors
+With the Artifical Intelligence Team instructors, Global AI Hub always brings the best resources to provide the top quality courses to you! You can access the personal GitHub accounts through the links below. 
 [Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/cobanov), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
 
-### Yardim
-Sorularınız ve ders notları için lütfen bu linke tıklayınız.
+### Support 
+For questions and lecture notes please click the relevant course above.
 
-> Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hic ummadiginiz anlarda repost yapabiliriz 😄
+> Don’t forget to tag "@globalaihub" to your posts! We will RT and Repost as much as we can. 😄
 
 ## Previous Webinars
 
-| Refik Anadol ile "Makine Hatıraları: Uzay" Perde Arkası Webinarı | İngiltere'de Bir Türk: Yapay Zekâ ve Veri Bilim Üzerine | Global AI Hub Top Learner'larıyla Buluştuk! |
+| "Machine Memoirs: Space" Behind the Scenes Webinar with Refik Anadol | A TUrkish Person in England: Towards Artificial Intelligence and Data Science | We Met with Global AI Hub Top Learners! |
 | --- | --- | --- |
 | [![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc) | [![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q) | [![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U) |
 
 
 ## Become a Top Learner  
-[![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
+[![](assets/become-top-learner.png)](https://globalaihub.com/top-learner) 
 
 
 ## ✉️ Missing Certificate?
-Contact us with the [missing certificate](google.com) form
+Contact us with the missing certificate form of the relevant course. 
