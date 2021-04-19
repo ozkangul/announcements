@@ -1,5 +1,5 @@
 <div align="right">
-  <p><a href="https://github.com/gaih/announcements">Türkçe</a> | <a href="https://github.com/gaih/announcements/blob/main/readme-eng.md">English</a></p>
+  <p><a href="https://gaih.github.io/announcements/">Türkçe</a> | <a href="https://gaih.github.io/announcements/readme-eng">English</a></p>
 </div>
 
 # Announcements 
