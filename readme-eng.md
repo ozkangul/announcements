@@ -25,7 +25,7 @@ By clicking on the respective image of the course, you can go the relevant page!
 - ⏰ Next [Introduction to Machine Learning](https://github.com/gaih/announcements/blob/main/introduction-to-ml.md) course will be 19/04/2021, sign up education with this [link](https://globalaihub.com/event/introduction-to-machine-learning-5/)! 
 
 #### 12.04.2021
-- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/)! 
+- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today by clicking this link [link](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/)! 
 
 ## Reminders
 ### Attendance Form
