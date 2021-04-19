@@ -57,4 +57,4 @@ For questions and lecture notes please click the relevant course above.
 
 
 ## ✉️ Missing Certificate?
-Contact us with the missing certificate form by clicking this [link](). 
+Contact us with the missing certificate form by clicking this [link](https://forms.gle/zQso3c3h5FDgS4Vp7). 
