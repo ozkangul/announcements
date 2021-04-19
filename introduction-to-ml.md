@@ -17,6 +17,16 @@ Katılım formu sadece kursun canlı olarak yapıldığı süre boyunca aktif ol
 Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz adınızı ve soyadınızı yazınız.  
 Katılım formu doldururken farklı e-posta adresi kullanmamaya dikkat ediniz.  
 
+### Katılım/Yoklama Formu
+
+Katılım formları ders boyu aktif olacaktır.
+
+- 1.Güne ait Katılım formuna ulaşmak için [linke](https://forms.gle/WfYSkzH2CBvokiZP8) tıklayınız.
+- 2.Güne ait Katılım formuna ulaşmak için [linke](https://forms.gle/A82G5NxuSPHJtvnx8) tıklayınız.
+- 3.Güne ait Katılım formuna ulaşmak için [linke](https://forms.gle/3VzGGj6Xq1PGsMH2A) tıklayınız.
+- 4.Güne ait Katılım formuna ulaşmak için [linke](https://forms.gle/eNt8Jzjg2T4ki3nd8) tıklayınız.      
+- 5.Güne ait Katılım formuna ulaşmak için [linke](https://forms.gle/RQjt356HVSNr9Uv59) tıklayınız.
+
 ### Quiz
 
 Quizler eğitim sonunda 15 dakika aktif olacaktır.
