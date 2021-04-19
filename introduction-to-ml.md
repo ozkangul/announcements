@@ -38,13 +38,15 @@ Quizler eğitim sonunda 15 dakika aktif olacaktır.
 - 5.Güne ait Quize ulaşmak için [linke](https://forms.gle/YeV6AME8nXcbsryg6) tıklayınız.
 
 ### GitHub repo linkinizi bu bağlantıdan gönderebilirsiniz.
-https://forms.gle/QxyEUAbVESxV5L9c9 
+[https://forms.gle/QxyEUAbVESxV5L9c9](https://forms.gle/QxyEUAbVESxV5L9c9)
 
 ### Örnek bir repo için: 
-https://github.com/globalaihub/gaih-students-repo-example
+[https://github.com/globalaihub/gaih-students-repo-example](https://github.com/globalaihub/gaih-students-repo-example)
 
 
 Sorularınız için [Turkish AI Hub'ı](https://globalaihub.com/community-hubs/turkish-ai-hub/) ziyaret etmeyi unutmmayınız.    
 
+## Top Learner Ol 
+[![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
 
 Katıldığınız için teşekkür ederiz!  
