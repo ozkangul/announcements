@@ -9,6 +9,7 @@ You can find latest course annoucements etc. some text will be added
 
 ## Courses
 Kurs gorsellerine tiklayarak, ilgili kurslarin bilgilerine ulasabilirsiniz!
+
 | Python | Artificial Intelligence | Machine Learning |
 | --- | --- | --- |
 | [![asd](assets/intropython.png)](https://gaih.github.io/announcements/introduction-to-python) | [![asd](assets/introai.png)](https://gaih.github.io/announcements/introduction-to-ai) | [![asd](assets/introml.png)](https://gaih.github.io/announcements/introduction-to-ml) |
