@@ -25,7 +25,7 @@ By clicking on the respective image of the course, you can go the relevant page!
 - ⏰ Next [Introduction to Machine Learning](https://github.com/gaih/announcements/blob/main/introduction-to-ml.md) course will be 19/04/2021, sign up education with this [link](https://globalaihub.com/event/introduction-to-machine-learning-5/)! 
 
 #### 12.04.2021
-- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/) 
+- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/)! 
 
 ## Reminders
 ### Attendance Form
@@ -38,7 +38,7 @@ To get a certificate, you must join the [Global AI Hub Community](https://global
 
 ### Instructors
 With the Artifical Intelligence Team instructors, Global AI Hub always brings the best resources to provide the top quality courses to you! You can access the personal GitHub accounts through the links below. 
-[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/cobanov), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
+[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/woosal1337), [Umut Kartal](https://github.com/umuttkartal), [Ezgi Subasi](https://github.com/ezgisubasi), [Ibrahim Gurkan](https://github.com/gurkanyesilbag)
 
 ### Support 
 For questions and lecture notes please click the relevant course above.
@@ -57,4 +57,4 @@ For questions and lecture notes please click the relevant course above.
 
 
 ## ✉️ Missing Certificate?
-Contact us with the missing certificate form of the relevant course. 
+Contact us with the missing certificate form by clicking this [link](). 
