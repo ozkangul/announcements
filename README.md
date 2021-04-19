@@ -1,4 +1,4 @@
-# announcements
+# Announcements
 You can find latest course annoucements etc. some text will be added
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
