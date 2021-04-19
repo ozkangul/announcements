@@ -8,7 +8,7 @@
 
 [![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/globalaihub)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/globalaihub)
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/globalaihub/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/globalaihub/)
 [![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/globalaihub)
 [![Mail Badge](https://img.shields.io/badge/hello@globalaihub.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hello@globalaihub.com)](mailto:hello@globalaihub.com)
 
@@ -22,10 +22,10 @@ By clicking on the respective image of the course, you can go the relevant page!
 
 ## Update
 #### 15.04.2021
-- ⏰ Next [Introduction to Python](https://github.com/gaih/announcements/blob/main/introduction-to-python.md) course will be DD:MM:YYYY, sign up education with this [link](globalaihub.com)! 
+- ⏰ Next [Introduction to Machine Learning](https://github.com/gaih/announcements/blob/main/introduction-to-ml.md) course will be 19/04/2021, sign up education with this [link](https://globalaihub.com/event/introduction-to-machine-learning-5/)! 
 
 #### 12.04.2021
-- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](globalaihub.com/education) 
+- 🔥 New course released **Introduction to Hyperautomation and RPA.** Enroll this course today on [Global AI Hub](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/) 
 
 ## Reminders
 ### Attendance Form
