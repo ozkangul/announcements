@@ -52,7 +52,7 @@ Sorularınız ve ders notları için lütfen belirli derslerle ilgili sayfaları
 | [![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc) | [![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q) | [![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U) |
 
 
-## Top Learner ol 
+## Top Learner Ol 
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
 
 
