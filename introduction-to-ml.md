@@ -4,14 +4,14 @@
 
 Canlı ders bittikten sonra dersin bağlantısını kullanarak oturumları yeniden izleyebilirsiniz.  
 
-Ders sonunda [Memnuniyet Anketimizi](https://forms.gle/DtK4mp7JgCucBDba9) doldurmayı unutmayınız!
+Ders sonunda [Memnuniyet Anketimizi](https://forms.gle/2KKaC2qTVpkSBmma9) doldurmayı unutmayınız!
 
 ### Eğitim Materyalleri
 - Eğitim ile alakalı eğitim dökümanlarına ulaşmak için [linke](https://github.com/globalaihub/introduction-to-machine-learning) tıklayınız.
 
 ### Sertifika
 - Sertifika alabilmek için Global AI Hub topluluğuna [bu linkten](https://globalaihub.com/community/) üye olmalısınız.
-- Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Yoklama formu için lütfen [linke](https://forms.gle/W5fuDSfmsQaDbbg46) tıklayınız.   
+- Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi içerisinde katılım formunu doldurduğunuzdan lütfen emin olun. Yoklama formu için lütfen [link](https://forms.gle/H4dGRyDC2BH3pjwf9) tıklayınız.   
 
 Katılım formu sadece kursun canlı olarak yapıldığı süre boyunca aktif olacaktır!  
 Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz adınızı ve soyadınızı yazınız.  
