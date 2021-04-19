@@ -35,26 +35,26 @@ Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istedi�
 ### Sertifika 
 Sertifika alabilmek için [Global AI Hub topluluğuna](https://globalaihub.com/community/) üye olmalısınız.
 
-### Egitmenler
-Global AI Hub, Yapay Zeka takimi egitmenleri her zaman kaliteli egitimleri sunmak icin en iyi kaynaklari size getirir! Asagidaki linklerden kisisel GitHub adreslerine ulasabilirsiniz.
+### Eğitmenler
+Global AI Hub, Yapay Zeka takımı eğitmenleri her zaman kaliteli eğitimleri sunmak icin en iyi kaynakları size getirir! Aşağıdaki linklerden kişisel GitHub adreslerine ulaşabilirsiniz.
 
-[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/cobanov), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
+[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/woosal1337), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
 
-### Yardim
-Sorularınız ve ders notları için lütfen bu linke tıklayınız.
+### Yardım
+Sorularınız ve ders notları için lütfen [bu linke]() tıklayınız.
 
-> Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hic ummadiginiz anlarda repost yapabiliriz 😄
+> Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hiç ummadığınız anlarda repost yapabiliriz! 😄
 
-## Previous Webinars
+## Önceki Webinarlar
 
 | Refik Anadol ile "Makine Hatıraları: Uzay" Perde Arkası Webinarı | İngiltere'de Bir Türk: Yapay Zekâ ve Veri Bilim Üzerine | Global AI Hub Top Learner'larıyla Buluştuk! |
 | --- | --- | --- |
 | [![IMAGE ALT TEXT HERE](assets/refikanadol.jpeg)](https://www.youtube.com/watch?v=xMj1MKJplHc) | [![IMAGE ALT TEXT HERE](assets/tuanacelik.jpeg)](https://www.youtube.com/watch?v=jj7J48jdq2Q) | [![IMAGE ALT TEXT HERE](assets/top-learner-bulusma.jpeg)](https://www.youtube.com/watch?v=eo7az9zA61U) |
 
 
-## Become a Top Learner  
+## Top Learner ol 
 [![](assets/become-top-learner.png)](https://globalaihub.com/top-learner)
 
 
-## ✉️ Missing Certificate?
-Contact us with the [missing certificate](google.com) form
+## ✉️ Sertifikanız kayıp mı?
+[Buraya tıklayarak]() bizlerle kayıp sertifakalarınız ile ilgili iletişime geçebilirsiniz.
