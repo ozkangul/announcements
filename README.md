@@ -28,7 +28,7 @@ Sertifika almaya sorunsuz bir şekilde hak kazanabilmeniz için kurs süresi iç
 Lütfen katılım formunu doldururken sertifikanızın üzerinde görmek istediğiniz **adınızı ve soyadınızı** yazınız. Katılım formunu doldururken **aynı e-posta adresini** kullanmaya dikkat ediniz.
 
 ### Sertifika 
-Sertifika alabilmek için [Global AI Hub topluluğuna](globalaihub.com) üye olmalısınız.
+Sertifika alabilmek için [Global AI Hub topluluğuna](https://globalaihub.com/community/) üye olmalısınız.
 
 ### Egitmenler
 Global AI Hub, Yapay Zeka takimi egitmenleri her zaman kaliteli egitimleri sunmak icin en iyi kaynaklari size getirir! Asagidaki linklerden kisisel GitHub adreslerine ulasabilirsiniz.
