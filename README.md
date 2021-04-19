@@ -1,5 +1,5 @@
 <div align="right">
-  <p><a href="https://github.com/woosal1337/announcements/blob/main/READMETR.md">Türkçe</a> | <a href="https://github.com/woosal1337/announcements/blob/main/README.md">English</a></p>
+  <p><a href="https://github.com/gaih/announcements">Türkçe</a> | <a href="https://github.com/gaih/announcements/blob/main/readme-eng.md">English</a></p>
 </div>
 
 # Duyurular
