@@ -24,7 +24,7 @@ Kurs görsellerine tıklayarak, ilgili kursların bilgilerine ulaşabilirsiniz!
 - ⏰ Sonraki [Makine Öğrenmesine Giriş](https://github.com/gaih/announcements/blob/main/introduction-to-ml.md) eğitimi 19/04/2021 tarihinde verilecektir, [buraya](https://globalaihub.com/event/introduction-to-machine-learning-5/) tıklayarak eğitime kayıt olabilirsiniz! 
 
 #### 12.04.2021
-- 🔥 Yeni eğitim **Introduction to Hyperautomation and RPA** ile beraberiz! Eğitime [buraya](globalaihub.com/education) tıklayarak kayıt olabilirsiniz.
+- 🔥 Yeni eğitim **Introduction to Hyperautomation and RPA** ile beraberiz! Eğitime [buraya](https://globalaihub.com/event/introduction-to-hyperautomation-rpa-26-30-april/) tıklayarak kayıt olabilirsiniz.
 
 ## Hatırlatıcılar
 ### Katılım formu
@@ -38,10 +38,10 @@ Sertifika alabilmek için [Global AI Hub topluluğuna](https://globalaihub.com/c
 ### Eğitmenler
 Global AI Hub, Yapay Zeka takımı eğitmenleri her zaman kaliteli eğitimleri sunmak icin en iyi kaynakları size getirir! Aşağıdaki linklerden kişisel GitHub adreslerine ulaşabilirsiniz.
 
-[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/woosal1337), [Umut Kartal](https://github.com/cobanov), [Ezgi Subasi](https://github.com/cobanov), [Ibrahim Gurkan](https://github.com/cobanov)
+[Mert Cobanov](https://github.com/cobanov), [Omer Cengiz](https://github.com/omercengiz), [Vusal Ismayilov](https://github.com/woosal1337), [Umut Kartal](https://github.com/umuttkartal), [Ezgi Subasi](https://github.com/ezgisubasi), [Ibrahim Gurkan](https://github.com/gurkanyesilbag)
 
 ### Yardım
-Sorularınız ve ders notları için lütfen [bu linke]() tıklayınız.
+Sorularınız ve ders notları için lütfen belirli derslerle ilgili sayfaları kontrol ediniz.
 
 > Postlarınıza “@globalaihub” etiketini eklemeyi unutmayın! Hiç ummadığınız anlarda repost yapabiliriz! 😄
 
