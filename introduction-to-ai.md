@@ -1,6 +1,3 @@
-![](https://gaih.github.io/announcements/assets/introai.png)
-
-
 # Introduction to Artificial Intelligence 
 ![](tobb_gaih.png)
 
